@@ -1,1 +1,1 @@
-# rsschool-cv
+https://OTmorozik.github.io/rsschool-cv/cv
