@@ -18,12 +18,9 @@ I believe that I can acquire the necessary skills to become an experienced Front
 * JavaScript (Basic)
 * Git,GitHub
 ## **Code example:** ##
-```
-let year = prompt('В каком году проходил Чемпионат Мира в России?', '');
-
-if (year == 2020) {
-  alert( 'Да вы знаток!' );
-} else {
-  alert( 'А вот и не верно!' ); // любое значение, кроме 2020
-}
-```
+    let year = prompt('В каком году проходил Чемпионат Мира в России?', '');
+    if (year == 2020) {
+    alert( 'Да вы знаток!' );
+    } else {
+    alert( 'А вот и не верно!' ); // любое значение, кроме 2020
+    }
