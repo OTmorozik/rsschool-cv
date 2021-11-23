@@ -32,6 +32,7 @@ I believe that I can acquire the necessary skills to become an experienced Front
 No work experience.
 ## **Education** ##
 * **University:** Samara State Aerospace University 
-* **Courses:** [HTML для начинающих](https://ru.code-basics.com/languages/html),  [CSS для начинающих](https://ru.code-basics.com/languages/css)
+* **Courses:** [HTML для начинающих](https://ru.code-basics.com/languages/html),  [CSS для начинающих](https://ru.code-basics.com/languages/css).
+
 ## **English** ##
 A2
