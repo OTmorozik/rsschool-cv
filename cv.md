@@ -1,5 +1,5 @@
-# **Dima Morozov** #
-## **Contact infotmation:** ##
+# **Dima Morozov** 
+## **Contact infotmation:** 
 **Phone:** +7-937-797-15-11
 
 **E-mail:** Moroz14_88@mail.ru
@@ -8,11 +8,11 @@
 
 **GitHub:** [OTmorozik](https://github.com/OTmorozik?tab=repositories)
 
-## **About me** ##
+## **About me** 
 At the moment I have no Frontend developer skills, but that's why I'm here to figure it out.
 In the modern developing world attracts a large number of areas where programmers are required.
 I believe that I can acquire the necessary skills to become an experienced Frontend developer. 
-## **Skills** ##
+## **Skills** 
 <ul>
     <li>HTML</li> 
     <li>CSS</li>
@@ -20,7 +20,7 @@ I believe that I can acquire the necessary skills to become an experienced Front
     <li>Git,GitHub</li>
 </ul>
 
-## **Code example:** ##
+## **Code example:** 
     let year = prompt('В каком году проходил Чемпионат Мира в России?', '');
     if (year == 2020) {
     alert( 'Да вы знаток!' );
@@ -28,11 +28,12 @@ I believe that I can acquire the necessary skills to become an experienced Front
     alert( 'А вот и не верно!' ); // любое значение, кроме 2020
     }
     
-## **Experience** ##
+## **Experience** 
 No work experience.
-## **Education** ##
-* **University:** Samara State Aerospace University 
-* **Courses:** [HTML для начинающих](https://ru.code-basics.com/languages/html),  [CSS для начинающих](https://ru.code-basics.com/languages/css).
+## **Education** 
++ **University:** Samara State Aerospace University.
 
-## **English** ##
-A2
++ **Courses:** [HTML для начинающих](https://ru.code-basics.com/languages/html),  [CSS для начинающих](https://ru.code-basics.com/languages/css).
+
+## **English** 
+A2.
