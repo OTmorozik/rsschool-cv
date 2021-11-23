@@ -27,6 +27,7 @@ I believe that I can acquire the necessary skills to become an experienced Front
     } else {
     alert( 'А вот и не верно!' ); // любое значение, кроме 2020
     }
+    
 ## **Experience** ##
 No work experience.
 ## **Education** ##
