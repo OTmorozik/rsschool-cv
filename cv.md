@@ -8,6 +8,9 @@
 
 **GitHub:** [OTmorozik](https://github.com/OTmorozik?tab=repositories)
 
+**Discord:**  Dima Morozov(OTmorozik)
+
+
 ## **About me** 
 At the moment I have no Frontend developer skills, but that's why I'm here to figure it out.
 In the modern developing world attracts a large number of areas where programmers are required.
@@ -27,7 +30,7 @@ I believe that I can acquire the necessary skills to become an experienced Front
     }
     
 ## **Experience** 
-No work experience.
+CV in training 
 ## **Education** 
 + **University:** Samara State Aerospace University.
 
