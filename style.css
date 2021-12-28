@@ -1,0 +1,112 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    line-height: 1.5;
+    color: black;
+    box-sizing: border-box;
+}
+
+/*Header */
+.header{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*Container */
+.container{
+    width: 100%;
+    margin: 0 auto;
+    width:1400px;
+}
+
+.header_inside{
+    background-color: black;
+    padding: 10px;
+}
+
+/*Nav */
+.nav{
+    font-size: 30px;
+    text-transform: uppercase; /*Capital letter */
+}
+
+.nav-flex{
+    display: flex;
+}
+
+.nav_info{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 50px;
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+/*Main block start */
+
+.block_main{
+    width: 1400px;
+    height: auto; 
+    display: flex;
+    margin: 0 auto;
+}
+
+/*Photo and Contact information */
+.photo{
+    width: 35%;
+    background-color: lightseagreen;
+}
+
+.photo_img{
+    width: 420px;
+    height: 500px;
+    padding: 10px 10px 0px 10px;
+    margin: 25px;
+}
+
+.photo_name{
+    margin: 25px;
+}
+
+.contacts_h2{
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 25px;
+    padding-top: 40px;
+}
+
+/*About me and other */
+.about_me{
+    display: block;
+    width: 65%;
+}
+
+h2{
+    margin: 0;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    padding-left: 20px;
+}
+
+/*Footer start */
+.footer{
+    display: block;
+    width: 1400px;
+    margin: 0 auto;
+}
+.container_footer{
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.data{
+    font-size: 50px;
+    font-weight: bold;
+}
